@@ -46,7 +46,7 @@ Documentation/
 
 Das folgende Diagramm zeigt den vollständigen Ablauf und die Logik des Programms.
 
-![Programmablaufplan](Documentation/PAP.svg)
+![PAP Diagram](Documentation/PAP.svg)
 
 ## Installation und Ausführung
 
