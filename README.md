@@ -46,7 +46,7 @@ Documentation/
 
 The following diagram illustrates the complete program logic.
 
-![Program Flowchart](Documentation/PAP.svg)
+![PAP Diagram](Documentation/PAP.svg)
 
 ## How to Run
 
